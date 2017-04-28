@@ -1,0 +1,29 @@
+{
+  "name": "brematic-control",
+  "version": "0.0.1",
+  "description": "Brennenstuhl Brematic Control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cvieth/brematic-control.git"
+  },
+  "keywords": [
+    "brennenstuhl",
+    "brematic",
+    "connair",
+    "433MHz"
+  ],
+  "author": {
+    "name": "Christoph Vieth",
+    "email": "christoph@vieth.me",
+    "url": "http://www.falkens-laboratory.de/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvieth/brematic-control/issues"
+  },
+  "homepage": "https://github.com/cvieth/brematic-control#readme"
+}
